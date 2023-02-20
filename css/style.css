@@ -1,0 +1,26 @@
+#title {
+  margin-top: 20px;
+  text-align: center;
+  background-color: rgb(172, 165, 165);
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+#image {
+  align-items: center;
+  width: 100%;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+}
+
+#tribute-info {
+  text-align: center;
+}
+
+#img-caption {
+  text-align: center;
+}
